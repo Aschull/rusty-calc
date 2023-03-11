@@ -1,2 +1,2 @@
 # rusty-calc
-A calculator made in rust lang
+A simple calculator made in rust lang
